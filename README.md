@@ -9,7 +9,7 @@ Laura Naslund
 
 ``` r
 if(!require(remotes)){install.packages("remotes")}  #install if needed
-remotes::install_github("laura-naslund/CASToolHelperPckg", force=TRUE)
+remotes::install_github("USEPA/CASToolHelperPckg", force=TRUE)
 ```
 
 ## Define parameters
