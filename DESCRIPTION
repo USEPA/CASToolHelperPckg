@@ -4,8 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Laura", "Naslund", , "Naslund.Laura@epa.gov", role = c("aut", "cre"))
 Description: Provides functions to access CONUS state boundaries, reach cluster assignments, cluster assignment figures, reach geometry, watershed stressor data and metadata.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Depends: 
