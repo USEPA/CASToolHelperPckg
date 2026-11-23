@@ -1,9 +1,9 @@
 Package: CASToolHelperPckg
-Title: What the Package Does (One Line, Title Case)
+Title: Helper Functions to Access CASTool Data
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Laura", "Naslund", , "Naslund.Laura@epa.gov", role = c("aut", "cre"))
+Description: Provides functions to access CONUS state boundaries, reach cluster assignments, cluster assignment figures, reach geometry, watershed stressor data and metadata.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
